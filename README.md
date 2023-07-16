@@ -10,6 +10,7 @@ This CV demonstrates the following skills:
     - Loose coupling of components for easier development, maintenance and testing.
     - Registration of event handlers for notification of events of interest for controller event handlers.
     - Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
+    - Dependency injection.
 
 - Test-driven development (TDD)
     - Specification and implementation.

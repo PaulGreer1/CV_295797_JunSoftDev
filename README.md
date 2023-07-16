@@ -8,13 +8,13 @@ This CV demonstrates the following skills:
 
 - Clean architectures using variations of MVC, MVVM, OOP, etc..
     - Loose coupling of components for easier development, maintenance and testing.
-    - Registration of event handlers for notification of events of interest for controller event handlers.
+    - Registration of controller event handlers for notification of events of interest.
     - In-memory storage of input and output data using the same object as that used for registration/notification, to enable easy access by various components of the system.
     - Dependency injection.
 
 - Test-driven development (TDD)
     - Specification and implementation.
-    - The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
+    - The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about post-conditions before implementation in programming language.
 
 https://github.com/PaulGreer1/TheGardenersWeb/blob/main/database/MethodSpec-getNewId.md
 
@@ -23,12 +23,10 @@ https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tick
 - Automated test suites
     - Ensuring all code works as expected before deployment.
     - Organisation of unit tests according to classes.
-    - Using JUnit so that tests are performed as part of the compilation process.
-
-https://github.com/PaulGreer1/cinema-tickets/blob/main/src/test/java/uk/gov/dwp/uc/pairtest/OrderTest.java
+    - Using JUnit to perform unit testing as part of the compilation process.
 
 - Continuous deployment environment
-    - Automated CICD pipelining with Git.
+    - Automated CICD pipelining with AWS Microservices and Git.
 
 - Programming languages
     - Java
@@ -60,6 +58,8 @@ Part 2 is a summary of my education. This includes a BSc Degree in Computer Scie
 This project demonstrates the following skills:
 
 - Programming languages: Java
+
+https://github.com/PaulGreer1/TheGardenersWeb
 
 https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strongcoffee/tgw
 

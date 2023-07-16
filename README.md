@@ -11,15 +11,24 @@ This CV demonstrates the following skills:
     - Registration of event handlers for notification of events of interest for controller event handlers.
     - Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
 
-- Test-driven development (TDD): specification and implementation. The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
+- Test-driven development (TDD)
+    - Specification and implementation.
+    - The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
 
 https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tickets-ui.txt
 
-- Automated test suites: ensuring all code works as expected before deployment. Organisation of unit tests according to classes. Using JUnit so that tests are performed as part of the compilation process.
+- Automated test suites
+    - Ensuring all code works as expected before deployment.
+    - Organisation of unit tests according to classes.
+    - Using JUnit so that tests are performed as part of the compilation process.
 
-- Continuous deployment environment: Automated CICD pipelining with Git
+- Continuous deployment environment
+    - Automated CICD pipelining with Git.
 
-- Programming languages: Java, Python, PHP
+- Programming languages
+    - Java
+    - Python
+    - PHP, CSS, HTML
 
 - Full stack development of web applications
 

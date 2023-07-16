@@ -24,7 +24,11 @@ Part 2 is a summary of my education. This includes a BSc Degree in Computer Scie
 
 ## Part 1: Projects and demonstrations
 
-PROJECT_BUILDING_BLOCKS
+### Project: TheGardenersWeb 2022 - 2023
+
+#### Overview
+
+as dfas dfas dfas dff
 
 ## Part 2: Education
 

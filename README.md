@@ -6,7 +6,7 @@ This CV demonstrates the following skills:
 
 - Test-driven development (TDD): specification and implementation. The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
 
-![](https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tickets-ui.txt)
+https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tickets-ui.txt
 
 - Automated test suites: ensuring all code works as expected before deployment. Organisation of unit tests according to classes. Using JUnit so that tests are performed as part of the compilation process.
 

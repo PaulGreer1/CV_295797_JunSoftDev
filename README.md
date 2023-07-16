@@ -1,12 +1,16 @@
 # Curriculum Vitae 295797_JunSoftDev_16-07-2023
 
+This CV is much easier to read at GitHub, and all the demonstration files are there too:
+
+https://github.com/PaulGreer1/CV_295797_JunSoftDev
+
 This CV demonstrates the following skills:
 
 - Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
 
 - Test-driven development (TDD): specification and implementation. The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
 
-https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tickets-ui.txt
+![](https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tickets-ui.txt)
 
 - Automated test suites: ensuring all code works as expected before deployment. Organisation of unit tests according to classes. Using JUnit so that tests are performed as part of the compilation process.
 
@@ -99,17 +103,19 @@ https://github.com/PaulGreer1/AwsCicdAutoPipeline
 
 
 
-### Project: AwsCicdAutoPipeline 2022 - 2023
+### Project: Ripples 2019 - 2020
 
 This project demonstrates the following skills:
 
--
+- Programming languages: Python
 
 #### Overview
 
-adf asdf as dfasdf
+Animated model of raindrops landing on a gently flowing river. An initial investigation into game theory using Python's Turtles module. After this I moved on to Java/LibGDX so that I could create more powerful multi-agent software simulations of real-world phenomena.
 
-![]()
+https://github.com/PaulGreer1/Ripples
+
+![](https://github.com/PaulGreer1/Ripples/blob/main/PYTHON_RIPPLES_00001.png)
 
 
 

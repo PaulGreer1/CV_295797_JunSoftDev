@@ -195,7 +195,7 @@ The site is powered by a set of PHP/MySQL web apps. Each app has an MVC structur
 
 Use the top level Config.php file to configure the system for your server, then copy this file to all the other app directories.
 
-Read all the details and get the all the source code at GitHub.
+Read all the details and get all the source code at GitHub:
 
 https://github.com/PaulGreer1/WebsiteLamp
 

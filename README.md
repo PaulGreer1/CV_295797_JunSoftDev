@@ -55,14 +55,6 @@ Part 2 is a summary of my education. This includes a BSc Degree in Computer Scie
 
 # Part 1: Projects and demonstrations
 
-
-
-
-
-
-
-
-
 ### Project: TheGardenersWeb 2022 - 2023
 
 This project demonstrates the following skills:
@@ -97,16 +89,7 @@ https://github.com/PaulGreer1/TheGardenersWeb
 
 ![](https://github.com/PaulGreer1/TheGardenersWeb/blob/main/REQUEST_RESPONSE_SEQUENCE_DIAGRAM.png)
 
-
-
-
-
-
-
-
-
-
-
+---------------------------------------
 
 ### Project: AwsCicdAutoPipeline 2022 - 2023
 
@@ -132,14 +115,6 @@ https://github.com/PaulGreer1/TheGardenersWeb/blob/main/CICD.png
 
 ![](https://github.com/PaulGreer1/AwsCicdAutoPipeline/blob/main/AwsCicdAutoPipelineInSdds.png)
 
-
-
-
-
-
-
-
-
 ### Project: Ripples 2019 - 2020
 
 This project demonstrates the following skills:
@@ -153,20 +128,6 @@ Animated model of raindrops landing on a gently flowing river. An initial invest
 https://github.com/PaulGreer1/Ripples
 
 ![](https://github.com/PaulGreer1/Ripples/blob/main/PYTHON_RIPPLES_00001.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Project: WebsiteLamp 2018 - 2022
 
@@ -200,73 +161,6 @@ Read all the details and get all the source code at GitHub:
 https://github.com/PaulGreer1/WebsiteLamp
 
 ![](https://github.com/PaulGreer1/WebsiteLamp/blob/main/UKAPPCODER_002.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Project: ProjectName StartYear - EndYear
-
-This project demonstrates the following skills:
-
--
-
-#### Overview
-
-adf asdf as dfasdf
-
-![]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Part 2: Education
 

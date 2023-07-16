@@ -1,8 +1,15 @@
 # Curriculum Vitae - 295797 - Junior software developer
 
+This CV is much easier to read at GitHub, and all the demonstration files are there too:
+
+https://github.com/PaulGreer1/CV_295797_JunSoftDev
+
 This CV demonstrates the following skills:
 
-- Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
+- Clean architectures using variations of MVC, MVVM, OOP, etc..
+    - Loose coupling of components for easier development, maintenance and testing.
+    - Registration of event handlers for notification of events of interest for controller event handlers.
+    - Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
 
 - Test-driven development (TDD): specification and implementation. The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
 

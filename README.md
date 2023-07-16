@@ -1,10 +1,10 @@
-## Curriculum Vitae 295797_JunSoftDev_16-07-2023
+# Curriculum Vitae 295797_JunSoftDev_16-07-2023
 
 This CV demonstrates the following skills:
 
 - Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data for easy access by different components of the system.
 
-- Test-driven development (TDD): specification and implementation. Identification of conditions which form the basis for tests, and the declaration of these conditions as tautologies in order to drive first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
+- Test-driven development (TDD): specification and implementation. Identification of conditions which form the basis for tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
 
 - Automated test suites. Ensure all code works as expected. Organise unit tests according to classes. Using JUnit so that tests are performed during compilation.
 
@@ -26,7 +26,7 @@ Part 2 is a summary of my education. This includes a BSc Degree in Computer Scie
 
 ## Part 1: Projects and demonstrations
 
-### PROJECT_BUILDING_BLOCKS
+PROJECT_BUILDING_BLOCKS
 
 ## Part 2: Education
 

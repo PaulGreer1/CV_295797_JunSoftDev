@@ -1,4 +1,4 @@
-# Curriculum Vitae 295797_JunSoftDev_16-07-2023
+# Curriculum Vitae 295797 Junior sotware developer
 
 This CV is much easier to read at GitHub, and all the demonstration files are there too:
 

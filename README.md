@@ -23,7 +23,7 @@ https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tick
     - Using JUnit so that tests are performed as part of the compilation process.
 
 - Continuous deployment environment
-    - Automated CICD pipelining with AWS and Git.
+    - Automated CICD pipelining with Git.
 
 - Programming languages
     - Java
@@ -40,7 +40,7 @@ Part 1 of this CV includes projects which demonstrate these skills. I give links
 
 Part 2 is a summary of my education. This includes a BSc Degree in Computer Science, Mathematics and Systems Analysis.
 
-## Part 1: Projects and demonstrations
+# Part 1: Projects and demonstrations
 
 
 
@@ -243,7 +243,7 @@ adf asdf as dfasdf
 
 
 
-## Part 2: Education
+# Part 2: Education
 
 BSc Degree in Computer Science, Mathematics and Systems Analysis from a UK university.
 

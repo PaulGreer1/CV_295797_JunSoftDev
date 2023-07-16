@@ -1,5 +1,9 @@
 # Curriculum Vitae 295797_JunSoftDev_16-07-2023
 
+This CV is much easier to read at GitHub, and all the demonstration files are there too:
+
+https://github.com/PaulGreer1/CV
+
 This CV demonstrates the following skills:
 
 - Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
@@ -24,11 +28,50 @@ Part 2 is a summary of my education. This includes a BSc Degree in Computer Scie
 
 ## Part 1: Projects and demonstrations
 
+
+
+
+
+
+
+
+
 ### Project: TheGardenersWeb 2022 - 2023
+
+This project demonstrates the following skills:
+
+- Programming languages: Java
+
+https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strongcoffee/tgw
+
+- Relational databases: theory and practice: SQL, MySQL
+
+https://github.com/PaulGreer1/TheGardenersWeb/blob/main/database/StatementOfDataRequirements.md
+
+- Test automation techniques and tooling: Test-driven development, JUnit
+
+https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/test/java/com/strongcoffee/tgw
 
 #### Overview
 
-as dfas dfas dfas dff
+This is the server component of the TheGardenersWeb system. It is deployed to an AWS Lambda compute service from where it provides database read/write services to clients. This app uses a Registrar object to provide an event and handler registration/callback facility. The Registrar also provides an input and output data storage and retrieval facility for other components in the system.
+
+The Gateway class simulates the reception of HTTP requests from clients, and invokes the handleRequest() method defined in the Handler class. The Gateway object also creates the Handler object, which creates other components such as a Registrar which stores request and response data for use by various components throughout the process. The Registrar also manages the notification of event handlers as user interface (UI) events occur. The Controller manages the registration of its event handlers for UI events.
+
+![](https://github.com/PaulGreer1/TheGardenersWeb/blob/main/REQUEST_RESPONSE_SEQUENCE_DIAGRAM.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Part 2: Education
 

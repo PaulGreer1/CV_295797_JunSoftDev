@@ -107,7 +107,7 @@ Please read all the details at GitHub:
 
 https://github.com/PaulGreer1/AwsCicdAutoPipeline
 
-The following link shows the overall development and deliver system:
+The following link shows the overall development and delivery system:
 
 https://github.com/PaulGreer1/TheGardenersWeb/blob/main/CICD.png
 

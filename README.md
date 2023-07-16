@@ -77,13 +77,21 @@ The Gateway class simulates the reception of HTTP requests from clients, and inv
 
 This project demonstrates the following skills:
 
--
+- Automated CICD pipelining: AWS CodePipeline, CodeCommit, CodeBuild, CloudFormation, Amazon CloudWatch, S3
+
+https://github.com/PaulGreer1/AwsCicdAutoPipeline
 
 #### Overview
 
-adf asdf as dfasdf
+Our software development and delivery system includes an automated pipeline which compiles, packages and deploys software artefacts, and is central to the continual integration and continuous deployment (CICD) of our Java server.
 
-![]()
+An AWS CodePipeline service provides the stages, transitions and executions for a 'source-compile-package-deploy' sequence. From a Git push in the local development environment, to the final remote deployment by the AWS CloudFormation service, I use AWS microservices to manage and automate the procedure. I have ensured that changes in the CodeCommit repository are detected from source push, not from CodeBuild polling.
+
+Please read all the details at GitHub:
+
+https://github.com/PaulGreer1/AwsCicdAutoPipeline
+
+![](https://github.com/PaulGreer1/AwsCicdAutoPipeline/blob/main/AwsCicdAutoPipelineInSdds.png)
 
 
 

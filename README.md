@@ -107,9 +107,11 @@ Please read all the details at GitHub:
 
 https://github.com/PaulGreer1/AwsCicdAutoPipeline
 
-The following diagram shows how it fits into an overall development and delivery system:
+The following link shows the overall development and deliver system:
 
 https://github.com/PaulGreer1/TheGardenersWeb/blob/main/CICD.png
+
+The following diagram shows the automated pipeline:
 
 ![](https://github.com/PaulGreer1/AwsCicdAutoPipeline/blob/main/AwsCicdAutoPipelineInSdds.png)
 

@@ -44,9 +44,13 @@ This project demonstrates the following skills:
 
 https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strongcoffee/tgw
 
-- Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
+- Clean architectures using loose coupling of components
 
-- Relational databases: theory and practice: SQL, MySQL
+- Registration of event handlers for notification of events of interest
+
+- In-memory storage of input and output data for use by various components
+
+- Relational databases: theory and practice: SQL, MySQL.
 
 https://github.com/PaulGreer1/TheGardenersWeb/blob/main/database/StatementOfDataRequirements.md
 

@@ -2,23 +2,21 @@
 
 This CV demonstrates the following skills:
 
-- Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data for easy access by different components of the system.
+- Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
 
-- Test-driven development (TDD): specification and implementation. Identification of conditions which form the basis for tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
+- Test-driven development (TDD): specification and implementation. The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
 
-- Automated test suites. Ensure all code works as expected. Organise unit tests according to classes. Using JUnit so that tests are performed during compilation.
+- Automated test suites: ensuring all code works as expected before deployment. Organisation of unit tests according to classes. Using JUnit so that tests are performed as part of the compilation process.
 
-- Continuous deployment environment: Automated CICD pipeline, Git
+- Continuous deployment environment: Automated CICD pipelining with Git
 
 - Programming languages: Java, Python, PHP
 
-- Full stack development of web applications: WebsiteLamp
+- Full stack development of web applications
 
-- RESTful APIs:
+- RESTful APIs
 
-- Relational databases (MySQL):
-
-- SQL (MySQL):
+- Relational databases (MySQL) and SQL
 
 Part 1 of this CV includes projects which demonstrate these skills. I give links to any code available at GitHub, so you can download and run it in your IDE.
 

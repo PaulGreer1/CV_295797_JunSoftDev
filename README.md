@@ -2,9 +2,23 @@
 
 This CV demonstrates the following skills:
 
-- Skill1
-- Skill2
-- . . .
+- Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data for easy access by different components of the system.
+
+- Test-driven development (TDD): specification and implementation. Identification of conditions which form the basis for tests, and the declaration of these conditions as tautologies in order to drive first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
+
+- Automated test suites. Ensure all code works as expected. Organise unit tests according to classes. Using JUnit so that tests are performed during compilation.
+
+- Continuous deployment environment: Automated CICD pipeline, Git
+
+- Programming languages: Java, Python, PHP
+
+- Full stack development of web applications: WebsiteLamp
+
+- RESTful APIs:
+
+- Relational databases (MySQL):
+
+- SQL (MySQL):
 
 Part 1 of this CV includes projects which demonstrate these skills. I give links to any code available at GitHub, so you can download and run it in your IDE.
 

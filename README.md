@@ -10,6 +10,8 @@ This CV demonstrates the following skills:
 
 - Test-driven development (TDD): specification and implementation. The identification of conditions which form the basis for unit tests, and the declaration of these conditions as tautologies in order to drive the first set of reasoned pseudocode blocks which bring about the conditions before implementation using programming languages.
 
+![](https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tickets-ui.txt)
+
 - Automated test suites: ensuring all code works as expected before deployment. Organisation of unit tests according to classes. Using JUnit so that tests are performed as part of the compilation process.
 
 - Continuous deployment environment: Automated CICD pipelining with Git
@@ -44,7 +46,7 @@ This project demonstrates the following skills:
 
 https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strongcoffee/tgw
 
-- Clean architectures using loose coupling of components
+- Clean architectures
 
 - Registration of event handlers for notification of events of interest
 

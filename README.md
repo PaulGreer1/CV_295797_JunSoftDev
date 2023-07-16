@@ -61,15 +61,15 @@ This project demonstrates the following skills:
 
 - Programming languages: Java
 
-https://github.com/PaulGreer1/TheGardenersWeb
-
-https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strongcoffee/tgw
-
 - Clean architectures
 
 - Registration of event handlers for notification of events of interest
 
 - In-memory storage of input and output data for use by various components
+
+https://github.com/PaulGreer1/TheGardenersWeb
+
+https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strongcoffee/tgw
 
 - Relational databases: theory and practice: SQL, MySQL. The following demonstrates how I designed the schema and implemented the database for the TheGardenersWeb database:
 
@@ -86,6 +86,8 @@ The Gateway class simulates the reception of HTTP requests from clients, and inv
 Please download and inspect the source code from:
 
 https://github.com/PaulGreer1/TheGardenersWeb
+
+The following sequence diagram gives an overall view of the process:
 
 ![](https://github.com/PaulGreer1/TheGardenersWeb/blob/main/REQUEST_RESPONSE_SEQUENCE_DIAGRAM.png)
 
@@ -127,6 +129,8 @@ Animated model of raindrops landing on a gently flowing river. An initial invest
 
 https://github.com/PaulGreer1/Ripples
 
+The following is a snapshot from an animation:
+
 ![](https://github.com/PaulGreer1/Ripples/blob/main/PYTHON_RIPPLES_00001.png)
 
 ### Project: WebsiteLamp 2018 - 2022
@@ -143,7 +147,7 @@ https://github.com/PaulGreer1/WebsiteLamp
 
 This is a powerful Linux-Apache-MySQL-PHP (LAMP) website with tools for membership, customer relationship management (CRM), brochure, financials, etc.. I use my own proprietary PHP-based model-view-controller (MVC) system. Take it, install it, enjoy it!
 
-This repository will start you off with the following website:
+The repository will start you off with the following website:
 
 https://www.ukappcoder.com/index.php
 

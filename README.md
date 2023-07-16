@@ -1,5 +1,9 @@
 # Curriculum Vitae 295797_JunSoftDev_16-07-2023
 
+This CV is much easier to read at GitHub, and all the demonstration files are there too:
+
+https://github.com/PaulGreer1/CV_295797_JunSoftDev
+
 This CV demonstrates the following skills:
 
 - Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
@@ -40,13 +44,11 @@ This project demonstrates the following skills:
 
 https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strongcoffee/tgw
 
+- Clean architectures using variations of MVC, MVVM, OOP, etc.. Loose coupling of components for easier development, maintenance and testing. Registration of event handlers for notification of events of interest for controller event handlers. Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
+
 - Relational databases: theory and practice: SQL, MySQL
 
 https://github.com/PaulGreer1/TheGardenersWeb/blob/main/database/StatementOfDataRequirements.md
-
-- Test automation techniques and tooling: Test-driven development, JUnit
-
-https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/test/java/com/strongcoffee/tgw
 
 #### Overview
 
@@ -55,6 +57,119 @@ This is the server component of the TheGardenersWeb system. It is deployed to an
 The Gateway class simulates the reception of HTTP requests from clients, and invokes the handleRequest() method defined in the Handler class. The Gateway object also creates the Handler object, which creates other components such as a Registrar which stores request and response data for use by various components throughout the process. The Registrar also manages the notification of event handlers as user interface (UI) events occur. The Controller manages the registration of its event handlers for UI events.
 
 ![](https://github.com/PaulGreer1/TheGardenersWeb/blob/main/REQUEST_RESPONSE_SEQUENCE_DIAGRAM.png)
+
+
+
+
+
+
+
+
+
+
+
+
+### Project: AwsCicdAutoPipeline 2022 - 2023
+
+This project demonstrates the following skills:
+
+-
+
+#### Overview
+
+adf asdf as dfasdf
+
+![]()
+
+
+
+
+
+
+
+
+
+### Project: AwsCicdAutoPipeline 2022 - 2023
+
+This project demonstrates the following skills:
+
+-
+
+#### Overview
+
+adf asdf as dfasdf
+
+![]()
+
+
+
+
+
+
+
+
+
+
+
+### Project: AwsCicdAutoPipeline 2022 - 2023
+
+This project demonstrates the following skills:
+
+-
+
+#### Overview
+
+adf asdf as dfasdf
+
+![]()
+
+
+
+
+
+
+
+
+
+
+
+
+### Project: AwsCicdAutoPipeline 2022 - 2023
+
+This project demonstrates the following skills:
+
+-
+
+#### Overview
+
+adf asdf as dfasdf
+
+![]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

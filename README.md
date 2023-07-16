@@ -23,7 +23,7 @@ https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tick
     - Using JUnit so that tests are performed as part of the compilation process.
 
 - Continuous deployment environment
-    - Automated CICD pipelining with Git.
+    - Automated CICD pipelining with AWS and Git.
 
 - Programming languages
     - Java

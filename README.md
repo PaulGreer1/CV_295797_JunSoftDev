@@ -145,7 +145,7 @@ https://github.com/PaulGreer1/WebsiteLamp
 
 #### Overview
 
-This is a powerful Linux-Apache-MySQL-PHP (LAMP) website with tools for membership, customer relationship management (CRM), brochure, financials, etc.. We use our own proprietary PHP-based model-view-controller (MVC) system. Take it, install it, enjoy it!
+This is a powerful Linux-Apache-MySQL-PHP (LAMP) website with tools for membership, customer relationship management (CRM), brochure, financials, etc.. I use my own proprietary PHP-based model-view-controller (MVC) system.
 
 This repository will start you off with the following website:
 

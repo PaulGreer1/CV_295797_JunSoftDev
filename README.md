@@ -89,8 +89,6 @@ https://github.com/PaulGreer1/TheGardenersWeb
 
 ![](https://github.com/PaulGreer1/TheGardenersWeb/blob/main/REQUEST_RESPONSE_SEQUENCE_DIAGRAM.png)
 
----------------------------------------
-
 ### Project: AwsCicdAutoPipeline 2022 - 2023
 
 This project demonstrates the following skills:

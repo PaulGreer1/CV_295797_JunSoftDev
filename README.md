@@ -9,7 +9,7 @@ This CV demonstrates the following skills:
 - Clean architectures using variations of MVC, MVVM, OOP, etc..
     - Loose coupling of components for easier development, maintenance and testing.
     - Registration of event handlers for notification of events of interest for controller event handlers.
-    - Storage of input and output data with the same object used for registration/notification, to enable easy access by various components of the system.
+    - In-memory storage of input and output data using the same object as that used for registration/notification, to enable easy access by various components of the system.
     - Dependency injection.
 
 - Test-driven development (TDD)
@@ -24,6 +24,8 @@ https://github.com/PaulGreer1/cinema-tickets/blob/main/specification/cinema-tick
     - Ensuring all code works as expected before deployment.
     - Organisation of unit tests according to classes.
     - Using JUnit so that tests are performed as part of the compilation process.
+
+https://github.com/PaulGreer1/cinema-tickets/blob/main/src/test/java/uk/gov/dwp/uc/pairtest/OrderTest.java
 
 - Continuous deployment environment
     - Automated CICD pipelining with Git.
@@ -67,7 +69,7 @@ https://github.com/PaulGreer1/TheGardenersWeb/tree/main/src/main/java/com/strong
 
 - In-memory storage of input and output data for use by various components
 
-- Relational databases: theory and practice: SQL, MySQL.
+- Relational databases: theory and practice: SQL, MySQL. The following demonstrates how I designed the schema and implemented the database for the TheGardenersWeb database:
 
 https://github.com/PaulGreer1/TheGardenersWeb/blob/main/database/StatementOfDataRequirements.md
 
@@ -79,7 +81,7 @@ This is the server component of the TheGardenersWeb system. It is deployed to an
 
 The Gateway class simulates the reception of HTTP requests from clients, and invokes the handleRequest() method defined in the Handler class. The Gateway object also creates the Handler object, which creates other components such as a Registrar which stores request and response data for use by various components throughout the process. The Registrar also manages the notification of event handlers as user interface (UI) events occur. The Controller manages the registration of its event handlers for UI events.
 
-Download and inspect the source code at:
+Please download and inspect the source code from:
 
 https://github.com/PaulGreer1/TheGardenersWeb
 
@@ -159,6 +161,8 @@ This project demonstrates the following skills:
 - Programming languages: PHP, SQL
 
 - Front-end web technologies: HTML, CSS
+
+- Full stack development of web applications
 
 https://github.com/PaulGreer1/WebsiteLamp
 
